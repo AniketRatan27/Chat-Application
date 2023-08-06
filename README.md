@@ -9,8 +9,8 @@
  Note :-
 
  -> By default React runs at port(localhost:/5173).
- -> open as many tabs on the same port( http://localhost:5173/) 
- -> Remember Both the users should Enter the same RoomId
+ -> open two or more tabs on the same port( http://localhost:5173/) 
+ -> Remember the users should Enter the same RoomId
  
  Example-: (like username1 = 123(roomId)  in one tab
  then username2 = 123(roomID) in another tab)
