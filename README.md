@@ -16,6 +16,6 @@
  then username2 = 123(roomID) in another tab)
  
  -> then  connection will be established 
- and the user's can chat with each-other.
+ and the user's can chat with each-other.->
   To  run Back-end -> go to cd back-end and run => nodemon index.js
   To  run Front-End go to cd chat-app and run => npm run dev.
