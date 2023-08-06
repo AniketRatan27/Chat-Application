@@ -1,0 +1,83 @@
+.join-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+.userInput{
+    width: 20%;
+    padding: 1rem;
+    border-radius:10px;
+    margin-top: 1rem;
+}
+.btn{
+  width: 8%;
+  height: 2pc;
+  margin-top: 2rem;
+  background-color: rgba(20, 20, 232, 0.82);
+  border-radius: 10px;
+}
+
+h2{
+    font-size: 30px;
+}
+.Bs{
+    cursor: pointer;
+   font-size:20px;
+   margin-bottom: 0px;
+   color: rgb(173, 166, 166);
+   padding: 5px;
+}
+
+.Fa{
+    cursor: pointer;
+   font-size:20px;
+   color: rgb(173, 166, 166);
+   padding: 5px;
+}
+
+.Enter-text{
+    width: 80%;
+    height: 2pc;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    background-color: rgba(0, 0, 0, 0.103);
+    position: absolute;
+    bottom: 8%;
+    color:white;
+}
+.btn2{
+    background-color: rgb(0, 128, 60);
+    border-radius: 6px;
+    width: 45px;
+    height: 2.4pc;
+    position: absolute;
+    right:1%;
+}
+.chat-start{
+    background-color: rgba(0, 0, 0, 0.872);
+    border-radius:10px;
+    width: 50%;
+    height: 15pc;
+    position:absolute;
+    top:30%;
+    left:23%;
+}
+.chat-body{
+    width:99%;
+    height: 10pc;
+    background-color: rgba(0, 0, 0, 0.322);
+}
+h3{
+    color: white;
+    background-color: rgb(0, 255, 98);
+    width: 20%;
+    border-radius: 7px;
+    overflow: hidden;
+    word-wrap: break-word;
+}
+.CancelText{
+    text-decoration: line-through;
+}
