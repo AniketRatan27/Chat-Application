@@ -1,4 +1,4 @@
- i have created a simple Chat-Application where -:
+ I have created a simple Chat-Application where -:
 
  
  If  two or more user's want to chat with eachother then.
